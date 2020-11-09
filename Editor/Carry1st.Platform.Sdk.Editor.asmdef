@@ -1,0 +1,10 @@
+﻿{
+	"name": "Carry1st.Platform.Sdk.Editor",
+	"references": [
+		"Carry1st.Platform"
+	], 
+	"includePlatforms": [
+		"Editor"
+	], 
+	"excludePlatforms": []
+}
