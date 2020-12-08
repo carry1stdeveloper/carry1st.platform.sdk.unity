@@ -1,7 +1,0 @@
-﻿{
-	"name": "Carry1st.Platform.Sdk",
-	"includePlatforms": ["Editor"],
-	
-	"excludePlatforms": [],
-	"autoReferenced": true
-}
