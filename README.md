@@ -1,29 +1,5 @@
-# README #
+# Carry1st Platform Payment Unity SDK #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Welcome to Platform payments Unity package. In this package use it to intergrate Carry1st's payment platform into your Unity project. Please follow our documentation links below to get started with Platform Payments
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* [Carry1st Documentation](https://carry1st-platform-unity.readme.io/reference#overview-and-integrating-with-platform-unity-sdk)
