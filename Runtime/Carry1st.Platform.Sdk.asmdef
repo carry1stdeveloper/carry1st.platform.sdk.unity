@@ -1,7 +1,13 @@
 ﻿{
 	"name": "Carry1st.Platform.Sdk",
-	"includePlatforms": ["Editor"],
-	
+	"references": [],
+	"optionalUnityReferences": [],
+	"includePlatforms": [],
 	"excludePlatforms": [],
-	"autoReferenced": true
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": []
 }
