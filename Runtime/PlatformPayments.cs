@@ -1,14 +1,14 @@
 ﻿using Script;
 using UnityEngine;
 
-namespace Carry1st.Platform.Sdk.Unity
+namespace Carry1st.Platform.Sdk
 {
     public class PlatformPayments : MonoBehaviour
     {
-        public string PLATFORM = null;
+        private string PLATFORM = null;
         private string BASE_URL = null;
 
-        private UniWebView _uniWebView = null;
+        private UniWebView _uniWebView;
         private GameObject _webViewGameObject;
         
         // delegates

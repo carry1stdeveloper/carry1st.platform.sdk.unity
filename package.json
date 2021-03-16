@@ -1,16 +1,19 @@
 {
-	"name": "com.carry1st.platform.sdk.unity",
-	"displayName": "Carry1st Platform Unity SDK",
-	"version": "1.0.0",
-	"unity": "2019.4",
-	"unityRelease":"9f1",
-	"description": "An SDK for Carry1st platform payments",
-	"dependencies": {
-    },
-    "keywords": ["tools","payments", "carry1st"],
-	"author": {
-		"name": "Carry1st",
-		"email": "developer@carry1st.com",
-		"url": "https://www.carry1st.com"
-	}
+  "name": "com.carry1st.platform.sdk.unity",
+  "displayName": "Carry1st Platform Unity SDK",
+  "version": "1.0.1",
+  "unity": "2019.4",
+  "unityRelease": "9f1",
+  "description": "An SDK for Carry1st platform payments",
+  "keywords": [
+    "tools",
+    "payments",
+    "carry1st"
+  ],
+  "author": {
+    "name": "Carry1st",
+    "email": "developer@carry1st.com",
+    "url": "https://www.carry1st.com"
+  },
+  "hideInEditor": false
 }
