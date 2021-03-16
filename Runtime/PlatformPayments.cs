@@ -1,4 +1,4 @@
-﻿using Dependencies.UniWebView.Script;
+﻿using Script;
 using UnityEngine;
 
 namespace Carry1st.Platform.Sdk
